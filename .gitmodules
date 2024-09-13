@@ -1,6 +1,6 @@
 [submodule "UseCaseBackend-AirPollution"]
 	path = UseCaseBackend-AirPollution
 	url = https://github.com/bugrayalcinqimia/UseCaseBackend-AirPollution
-[submodule "vhh-case-studies"]
-	path = vhh-case-studies
-	url = https://github.com/caneryildizQimia/vhh-case-studies.git
+[submodule "UseCaseFrontend-SWCotD"]
+	path = UseCaseFrontend-SWCotD
+	url = https://github.com/caneryildizQimia/UseCaseFrontend-SWCotD
